@@ -1,12 +1,25 @@
-﻿@/*
+@charset "utf-8";
+
+@font-face {
+font-family: Champagne;
+src: url(cac_champagne.woff) format("woff"),
+url(cac_champagne.ttf) format('ttf');
+}
+
+@font-face {
+  font-family: Dobkin;
+  src: url(DobkinPlain.woff) format('woff'),
+  url(DobkinPlain.ttf) format('ttf');
+}
+
    New Perspectives on HTML5 and CSS3, 7th Edition
    Tutorial 2
    Case Problem 4
-   
+
    Great Lakescape Lodge Style Sheet
-   Author: 
-   Date:   
-   
+   Author: Stephanie King
+   Date:   09/24/2017
+
    Filename: lake_styles.css
 
 */
